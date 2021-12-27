@@ -1,2 +1,1 @@
-# pomodoro
-Created with CodeSandbox
+Simple pomodoro app with React
